@@ -16,12 +16,4 @@ dog cat
 
 trying to merge again sad
 
-let'see
-safdgjiafgklsadksamfk;
-sagewbh
-sabfhg
-s;akpflmdkgs
-sdafrgerg
-gregerefkldgjsflkgjofdm;l
 
-dfk;smdf;s
