@@ -1,26 +1,5 @@
 # hacktoberfest_test_repo
 
-This is the first commit.
-
-Something. Hello world. Hey Lawrence
-
-
-Hey this should be a conflict
-Hey
-Another commit
-
-Car commit
-Pizza pizza
-
-trying to merge again
-
-test test
-with filereader new file
-fs again sync name test test few
-happy happy yay
-master
-
-
-Lawrence
+This is a test commit. Let's see if the merging tool works!
 
 
