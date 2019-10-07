@@ -4,6 +4,10 @@ This is a test commit. Let's see if the merging tool works!
 
 
 
-Im updating master. Hello
+Im updating master. Hello\
+
+
+
+Another change
 
 
