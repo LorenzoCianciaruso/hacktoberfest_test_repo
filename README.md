@@ -4,4 +4,4 @@ This is the first commit.
 
 Something. Hello world. Hey Lawrence
 
-New change
+Conflict
