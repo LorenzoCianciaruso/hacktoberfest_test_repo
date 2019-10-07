@@ -12,5 +12,5 @@ Another commit
 Car commit
 Pizza pizza
 
-dog
+dog cat
 
