@@ -2,4 +2,4 @@
 
 This is the first commit.
 
-Something.
+Something. Hello world.
