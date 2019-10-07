@@ -12,9 +12,7 @@ Another commit
 Car commit
 Pizza pizza
 
-dog cat
-
-trying to merge again sad
+trying to merge again
 
 test test
 with filereader new file
