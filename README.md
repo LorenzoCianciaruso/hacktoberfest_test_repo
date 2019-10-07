@@ -18,5 +18,3 @@ trying to merge again sad
 
 test test
 another test
-
-asofjopf;l
